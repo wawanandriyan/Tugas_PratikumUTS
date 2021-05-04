@@ -1,5 +1,4 @@
 # Tugas_PratikumUTS
-# Tugas_PratikumUTS
 * Buat script untuk melakukan validasi pada isian form
 ![INPUT1](https://user-images.githubusercontent.com/56245966/117043318-43f70200-ad37-11eb-95a6-a0cc5623f1c8.png)
 ![INPUT11](https://user-images.githubusercontent.com/56245966/117044800-0abf9180-ad39-11eb-97b9-348824d0ab12.png)
